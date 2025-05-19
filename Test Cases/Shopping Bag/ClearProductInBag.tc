@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClearProductInBag</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3ad8cb1-1b07-4575-be1a-9ceaf817fe07</testCaseGuid>
+</TestCaseEntity>
